@@ -2,7 +2,7 @@
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assets/hero-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hero-section.png" alt="Hero Section"><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
