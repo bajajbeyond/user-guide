@@ -8,7 +8,7 @@ There are four companies listed in companies page by default
 
 * Bajaj Auto Limited
 * Bajaj Electricals Limited
-* Bajaj FInserv Limited
+* Bajaj Finserv Limited
 * Mukand Limited
 
 To assess a company page in frontend you need to select a company from the header navigation of website.&#x20;
