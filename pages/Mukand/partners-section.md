@@ -6,4 +6,4 @@
 
 ### Backend (CMS)
 
-<figure><img src="../../.gitbook/assetsMukand/Partner-with-us-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsMukand/Partner-with-us-section-cms.png" alt=""><figcaption></figcaption></figure>
