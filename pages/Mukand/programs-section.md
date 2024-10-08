@@ -2,8 +2,8 @@
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assetsMukand/programmes-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsMukand/Programmes-section.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
-<figure><img src="../../.gitbook/assetsMukand/programmes-section-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsMukand/Programmes-section-cms.png" alt=""><figcaption></figcaption></figure>
