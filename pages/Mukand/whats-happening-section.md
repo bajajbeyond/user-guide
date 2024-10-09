@@ -2,8 +2,8 @@
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assetsMukand/what&#x27;s-happing-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsMukand/what-happening-section.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
-<figure><img src="../../.gitbook/assetsMukand/what&#x27;s-happing-section-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsMukand/what's-happing-section-cms.png" alt=""><figcaption></figcaption></figure>

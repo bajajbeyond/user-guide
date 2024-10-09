@@ -13,4 +13,4 @@ There are four companies listed in companies page by default
 
 To assess a company page in frontend you need to select a company from the header navigation of website.&#x20;
 
-<figure><img src="../../.gitbook/assets/header-navigation-for-companies.png" alt=""><figcaption><p>Companies dropdown</p></figcaption></figure>
+<figure><img src="../../.gitbook/assetsBajajAuto/header-navigation-for-companies.png" alt=""><figcaption><p>Companies dropdown</p></figcaption></figure>

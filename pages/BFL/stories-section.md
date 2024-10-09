@@ -2,8 +2,8 @@
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assetsBFL/stories-section (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsBFL/Stories-section.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
-<figure><img src="../../.gitbook/assetsBFL/stories-section-cms (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsBFL/Stories-section-cms.png" alt=""><figcaption></figcaption></figure>
