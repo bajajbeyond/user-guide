@@ -6,7 +6,7 @@
 
 * [🗄️ CMS](overview/cms.md)
 * [🖥️ Frontend](overview/frontend.md)
-* [🇬🇧/🇮🇳 Change Language](overview/switchLanguage.md)
+* [🇮🇳 Change Language](overview/switchLanguage.md)
 
 ## pages
 
