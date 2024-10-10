@@ -60,3 +60,7 @@ layout:
 {% content-ref url="overview/frontend.md" %}
 [frontend.md](overview/frontend.md)
 {% endcontent-ref %}
+
+{% content-ref url="overview/switchLanguage.md" %}
+[switchLanguage.md](overview/switchLanguage.md)
+{% endcontent-ref %}
