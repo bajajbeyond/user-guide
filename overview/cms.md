@@ -15,7 +15,7 @@ coverY: 527
 {% embed url="https://admin.bajajbeyond.co.in/admin/"%}
 <a href="
 https://admin.bajajbeyond.co.in/admin/"
-target="_blank">CMS</a>
+target="_new">Please click here to Login to CMS</a>
 
 {% hint style="info" %}
 **NOTE:** Please login using the credentials provided to you
