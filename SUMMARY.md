@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Introduction](README.md)
+* [🚩 Introduction](README.md)
 
 ## Overview
 
@@ -43,9 +43,9 @@
   * [📎 What's Happening Section](pages/BEL/whats-happening-section.md)
   * [📎 Our Focus Area Section](pages/BEL/our-focus-area-section.md)
   * [📎 Initiatives List Section](pages/BEL/initiatives-list-section.md)
-  * [📎 Initiatives Details Section](pages/BEL/initiative-details-section-cms.md)
+  * [📎 Initiatives Details Section](pages/BEL/initiatives-details-section-cms.md)
   * [📎 Stories Section](pages/BEL/stories-section.md)
-  * [📎 Recognition Section](pages/BEL/Recogniiton-section.md)
+  * [📎 Recognition Section](pages/BEL/Recogniton-section.md)
   * [📎 Partners Section](pages/BEL/partners-section.md)
   * [📎 Partner With Us Section](pages/BEL/PartnerWithUs-section.md)
   * [Initiative Listing Page](pages/BEL/initiative-listing-page/README.md)
@@ -101,7 +101,7 @@
     * [📎 Quote Section](pages/charitable-trust-landing-page/wardha-page/quote-section.md)
     * [📎 Historic Legacy Section](pages/charitable-trust-landing-page/wardha-page/historic-legacy-section.md)
     * [📎 Initiatives List Section](pages/charitable-trust-landing-page/wardha-page/initiatives-list-section.md)
-  * [🌟 Awards Page](pages/charitable-trust-landing-page/awards-page/README.md)
+  * [🏆 Awards Page](pages/charitable-trust-landing-page/awards-page/README.md)
     * [📎 Intro Section](pages/charitable-trust-landing-page/awards-page/intro-section.md)
     * [📎 Awards Winner Section](pages/charitable-trust-landing-page/awards-page/awards-winner-section.md)
     * [📎 Associated Section](pages/charitable-trust-landing-page/awards-page/associated-section.md)
