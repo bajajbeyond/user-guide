@@ -27,7 +27,7 @@
   * [📎 What's Happening Section](pages/BajajAuto/whats-happening-section.md)
   * [📎 Our Focus Area Section](pages/BajajAuto/our-focus-area-section.md)
   * [📎 Initiatives List Section](pages/BajajAuto/initiatives-list-section.md)
-  * [📎 Initiatives Details Section](pages/BajajAuto/Initiatives-details-section.md)
+  * [📎 Initiatives Details Section](pages/BajajAuto/initiatives-details-section-cms.md)
   * [📎 Stories Section](pages/BajajAuto/stories-section.md)
   * [📎 Case Studies Section](pages/BajajAuto/case-studies-section.md)
   * [📎 Partners Section](pages/BajajAuto/partners-section.md)
