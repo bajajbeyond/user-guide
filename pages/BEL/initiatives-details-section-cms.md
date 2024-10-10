@@ -2,7 +2,7 @@
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assetsBEL/initiatives-details-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assetsBEL/initiatives-details-section1.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
