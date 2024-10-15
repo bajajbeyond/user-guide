@@ -8,7 +8,7 @@
 
 Detail Page
 
-<figure><img src="../../../.gitbook/assetsBFL/initiative-detail-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assetsBFL/Initiative-details-section.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
