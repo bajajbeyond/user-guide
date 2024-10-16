@@ -6,4 +6,4 @@
 
 ### Backend (CMS)
 
-<figure><img src="../../../.gitbook/assets/about-us-banner-section-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/our-legacy-banner-section-cms.png" alt=""><figcaption></figcaption></figure>
