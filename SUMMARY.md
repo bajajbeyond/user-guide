@@ -125,8 +125,6 @@
     * [📎 Act Of Progress Section](pages/charitable-trust-landing-page/hamara-sapna-landing-page/act-of-progress-section.md)
     * [📎 How We Help Section](pages/charitable-trust-landing-page/hamara-sapna-landing-page/how-we-help-section.md)
     * [📎 Stories Section](pages/charitable-trust-landing-page/hamara-sapna-landing-page/stories-section.md)
-    * [📎 Programs Section](pages/charitable-trust-landing-page/hamara-sapna-landing-page/programs-section.md)
-    * [📎 Partners Section](pages/charitable-trust-landing-page/hamara-sapna-landing-page/partners-section.md)
     * [📎 Gallery Section](pages/charitable-trust-landing-page/hamara-sapna-landing-page/gallery-section.md) 
 * [ℹ️ About Us Page](pages/about-us-page/README.md)
   * [📎 Banner Section](pages/about-us-page/banner-section.md)
