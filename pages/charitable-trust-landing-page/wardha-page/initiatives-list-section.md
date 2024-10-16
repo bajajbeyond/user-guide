@@ -6,4 +6,4 @@
 
 ### Backend (CMS)
 
-<figure><img src="../../../.gitbook/assets/initiative-list-section-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/initiative-list-sectionWardha-cms.png" alt=""><figcaption></figcaption></figure>
