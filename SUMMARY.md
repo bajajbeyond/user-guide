@@ -109,8 +109,7 @@
   * [🏢 Jamnalal Bajaj Sewa Trust Page](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/README.md)
     * [📎 Banner Section](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/banner-section.md)
     * [📎 Quote Section](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/quote-section.md)
-    * [📎 Act Of Progress Section](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/ACT OF PROGRESS- 
-  section.md)
+    * [📎 Act Of Progress Section](pages/charitable-trust-landing-page/act-of-progress-section.md)
     * [📎 Our Focus Area Section](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/our-focus-area-section.md)
     * [📎 Initiatives List Section](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/initiatives-section.md)
     * [📎 Initiatives Details Section](pages/charitable-trust-landing-page/Jamnalal-Bajaj-Sewa-Trust-Page/initiatives-details-section.md)
