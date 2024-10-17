@@ -10,10 +10,4 @@ There are three charitable trusts listed on the charitable trust page by default
 * Jamnalal Bajaj Sewa Trust
 * Hamaara Sapna
 
-To assess a charitable trust page in frontend you need to select a charitable trust from the header navigation of the website Charitable trust dropdown.&#x20;
 
-<figure><img src="../../.gitbook/assets/header-navigation-for-charitable-trust.png" alt=""><figcaption></figcaption></figure>
-
-Backend(CMS)
-
-<figure><img src="../../.gitbook/assets/header-navigation-for-charitable-trust-cms.png" alt=""><figcaption></figcaption></figure>
