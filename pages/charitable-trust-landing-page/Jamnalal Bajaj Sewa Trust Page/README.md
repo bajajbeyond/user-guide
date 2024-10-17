@@ -1,4 +1,4 @@
-# Jamnalal Bajaj Sewa Trust Landing Page
+# Jamnalal Bajaj Sewa Trust
 
 ### **Frontend**
 
