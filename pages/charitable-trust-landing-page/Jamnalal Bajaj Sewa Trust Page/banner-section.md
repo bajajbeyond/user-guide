@@ -6,4 +6,4 @@
 
 ### Backend (CMS)
 
-<figure><img src="../../../.gitbook/assets/JBST-gallery-section-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/JBST-banner-section-cms.png" alt=""><figcaption></figcaption></figure>
