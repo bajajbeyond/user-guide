@@ -1,9 +1,9 @@
-# 📎 Objective Section
+# 📎 Quote Section
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assets/charitable-trust-objective-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/JBST-quote-section.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
-<figure><img src="../../.gitbook/assets/charitable-trust-objective-section-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/JBST-quote-section-cms.png" alt=""><figcaption></figcaption></figure>
