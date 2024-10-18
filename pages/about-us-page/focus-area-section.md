@@ -2,7 +2,7 @@
 
 ### **Frontend**
 
-<figure><img src="../../.gitbook/assets/about-us-focus-area-section.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/About-us-focus-area-section.png" alt=""><figcaption></figcaption></figure>
 
 ### Backend (CMS)
 
