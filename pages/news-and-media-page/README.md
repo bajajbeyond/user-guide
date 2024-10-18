@@ -6,5 +6,5 @@
 
 ### Backend (CMS)
 
-<figure><img src="../../.gitbook/assets/new-media-landing-page-cms.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/new-media-landing-page-cms1.png" alt=""><figcaption></figcaption></figure>
 
